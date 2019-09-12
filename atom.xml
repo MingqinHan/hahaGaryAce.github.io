@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>hahaGaryAce&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-12T11:44:12.842Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/09/12/2019.9.12/"/>
+    <id>http://yoursite.com/2019/09/12/2019.9.12/</id>
+    <published>2019-09-12T11:23:09.373Z</published>
+    <updated>2019-09-12T11:44:12.842Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="ubuntu18-04引导项的修复以及双系统的切换"><a href="#ubuntu18-04引导项的修复以及双系统的切换" class="headerlink" title="ubuntu18.04引导项的修复以及双系统的切换"></a>ubuntu18.04引导项的修复以及双系统的切换</h2><p>之前在已装有win10的基础上装过ubuntu18.04，但感觉装的有点问题。。。有些地方挺奇怪，比如分区的目录：<br><img src="./pictures/2019.9.12.png" alt="2019.9.12pic1"></p><p>还有一个问题是开机的时候自动进入win10，想要进入ubuntu，必须在开机的时候手动狂点F11,感觉好像是ubuntu的启动项被windows的覆盖了一样（凭感觉猜）。</p><p>然后在茂哥的博客上看到了一篇文章里提到boot repair修复启动项这样一句话，就感觉可以一试，搜到了下面的一篇文章：</p><p>(<a href="https://blog.csdn.net/piaocoder/article/details/50589667" target="_blank" rel="noopener">https://blog.csdn.net/piaocoder/article/details/50589667</a>)</p><p>等u盘到了做个启动盘试一试吧</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;ubuntu18-04引导项的修复以及双系统的切换&quot;&gt;&lt;a href=&quot;#ubuntu18-04引导项的修复以及双系统的切换&quot; class=&quot;headerlink&quot; title=&quot;ubuntu18.04引导项的修复以及双系统的切换&quot;&gt;&lt;/a&gt;ubuntu18.04
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/09/09/test/"/>
+    <id>http://yoursite.com/2019/09/09/test/</id>
+    <published>2019-09-09T02:52:11.115Z</published>
+    <updated>2019-09-09T10:00:00.596Z</updated>
+    
+    <content type="html"><![CDATA[<p>haha，第一篇博客</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;haha，第一篇博客&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/08/06/hello-world/"/>
+    <id>http://yoursite.com/2019/08/06/hello-world/</id>
+    <published>2019-08-06T11:20:19.216Z</published>
+    <updated>2019-08-06T11:20:19.216Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
