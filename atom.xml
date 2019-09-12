@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-12T11:44:12.842Z</updated>
+  <updated>2019-09-12T12:22:02.284Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,16 @@
     <link href="http://yoursite.com/2019/09/12/2019.9.12/"/>
     <id>http://yoursite.com/2019/09/12/2019.9.12/</id>
     <published>2019-09-12T11:23:09.373Z</published>
-    <updated>2019-09-12T11:44:12.842Z</updated>
+    <updated>2019-09-12T12:22:02.284Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="ubuntu18-04引导项的修复以及双系统的切换"><a href="#ubuntu18-04引导项的修复以及双系统的切换" class="headerlink" title="ubuntu18.04引导项的修复以及双系统的切换"></a>ubuntu18.04引导项的修复以及双系统的切换</h2><p>之前在已装有win10的基础上装过ubuntu18.04，但感觉装的有点问题。。。有些地方挺奇怪，比如分区的目录：<br><img src="./pictures/2019.9.12.png" alt="2019.9.12pic1"></p><p>还有一个问题是开机的时候自动进入win10，想要进入ubuntu，必须在开机的时候手动狂点F11,感觉好像是ubuntu的启动项被windows的覆盖了一样（凭感觉猜）。</p><p>然后在茂哥的博客上看到了一篇文章里提到boot repair修复启动项这样一句话，就感觉可以一试，搜到了下面的一篇文章：</p><p>(<a href="https://blog.csdn.net/piaocoder/article/details/50589667" target="_blank" rel="noopener">https://blog.csdn.net/piaocoder/article/details/50589667</a>)</p><p>等u盘到了做个启动盘试一试吧</p>]]></content>
+    <content type="html"><![CDATA[<hr><h2 id="title-ubuntu18-04引导项的修复以及双系统的切换"><a href="#title-ubuntu18-04引导项的修复以及双系统的切换" class="headerlink" title="title:ubuntu18.04引导项的修复以及双系统的切换"></a>title:ubuntu18.04引导项的修复以及双系统的切换</h2><h2 id="ubuntu18-04引导项的修复以及双系统的切换"><a href="#ubuntu18-04引导项的修复以及双系统的切换" class="headerlink" title="ubuntu18.04引导项的修复以及双系统的切换"></a>ubuntu18.04引导项的修复以及双系统的切换</h2><p>之前在已装有win10的基础上装过ubuntu18.04，但感觉装的有点问题。。。有些地方挺奇怪，比如分区的目录：<br><img src="./pictures/2019.9.12.png" alt="2019.9.12pic1"></p><p>还有一个问题是开机的时候自动进入win10，想要进入ubuntu，必须在开机的时候手动狂点F11,感觉好像是ubuntu的启动项被windows的覆盖了一样（凭感觉猜）。</p><p>然后在茂哥的博客上看到了一篇文章里提到boot repair修复启动项这样一句话，就感觉可以一试，搜到了下面的一篇文章：</p><p>(<a href="https://blog.csdn.net/piaocoder/article/details/50589667" target="_blank" rel="noopener">https://blog.csdn.net/piaocoder/article/details/50589667</a>)</p><p>等u盘到了做个启动盘试一试吧</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;ubuntu18-04引导项的修复以及双系统的切换&quot;&gt;&lt;a href=&quot;#ubuntu18-04引导项的修复以及双系统的切换&quot; class=&quot;headerlink&quot; title=&quot;ubuntu18.04引导项的修复以及双系统的切换&quot;&gt;&lt;/a&gt;ubuntu18.04
+        &lt;hr&gt;
+&lt;h2 id=&quot;title-ubuntu18-04引导项的修复以及双系统的切换&quot;&gt;&lt;a href=&quot;#title-ubuntu18-04引导项的修复以及双系统的切换&quot; class=&quot;headerlink&quot; title=&quot;title:ubuntu18.04引导项的修复以及
       
     
     </summary>
